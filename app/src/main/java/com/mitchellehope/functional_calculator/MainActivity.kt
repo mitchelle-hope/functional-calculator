@@ -68,6 +68,17 @@ class MainActivity : AppCompatActivity() {
         var divide = NumberOne%NumberTwo
         tvResult.text = divide.toString()
 
+
+
+
+
+
+
+
+
+
+
+
     }
 
     fun subtraction(NumberOne: Int, NumberTwo: Int) {
